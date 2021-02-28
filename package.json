@@ -4,11 +4,11 @@
     "description": "Countdown Component for Svelte 3",
     "repository": {
         "type": "git",
-        "url": "https://github.com/rallisf1/svelte-countdown"
+        "url": "https://github.com/hazg/svelte-countdown"
     },
     "homepage": "",
     "bugs": {
-        "url": "https://github.com/rallisf1/svelte-countdown/issues"
+        "url": "https://github.com/hazg/svelte-countdown/issues"
     },
     "main": "dist/index.js",
     "module": "dist/index.mjs",
@@ -21,7 +21,7 @@
         "svelte",
         "countdown"
     ],
-    "author": "rallisf1",
+    "author": "rallisf1, hazg",
     "license": "MIT",
     "devDependencies": {
         "rollup": "^2.7.2",

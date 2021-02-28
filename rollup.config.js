@@ -4,10 +4,10 @@ import resolve from 'rollup-plugin-node-resolve';
 const pkg = require('./package.json');
 
 export default {
-    input: 'src/Counter.svelte',
+    input: 'src/Countdown.svelte',
     output: [
         { file: pkg.module, 'format': 'en' },
-        { file: pkg.main, 'format': 'umd', name: 'Counter' }
+        { file: pkg.main, 'format': 'umd', name: 'Countdown' }
     ],
     plugins: [
         svelte(),
