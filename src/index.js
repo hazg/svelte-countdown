@@ -1,3 +1,3 @@
-import Countdown from './Countdown.svelte';
+import Countdown from './Countdown.svelte'
 
-export default Countdown;
+export default Countdown

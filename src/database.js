@@ -1870,4 +1870,4 @@ const database = [{
     }
 ]
 
-export default database;
+export default database
